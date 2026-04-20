@@ -8,6 +8,4 @@
 - A CSV file for each ingredient, such as `avocado.csv`, with data about each food item and countries of origin.
 - A TXT file for each ingredient, such as `relevant_avocado_categories`, containing only the category tags of interest for that food.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project.
+The project was done in January, 2025. Machine learning was not applied in this project.
